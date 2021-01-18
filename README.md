@@ -1,5 +1,5 @@
 # tidy-data-maker
-[A little quick tool to make tidy data.](https://www.henrylau.co.uk/tidy-data-maker/index.html)
+[A little quick tool to make tidy data.](https://onsvisual.github.io/tidy-data-maker/)
 
 ![gif](https://user-images.githubusercontent.com/2945099/103656285-5404fd80-4f60-11eb-8223-3017964fd66b.gif)
 
